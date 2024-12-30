@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ready-Player-me-avatar-in-react/static/css/main.f855e6bc.css",
+    "main.js": "/Ready-Player-me-avatar-in-react/static/js/main.7259d726.js",
+    "static/js/488.780df2e1.chunk.js": "/Ready-Player-me-avatar-in-react/static/js/488.780df2e1.chunk.js",
+    "index.html": "/Ready-Player-me-avatar-in-react/index.html",
+    "main.f855e6bc.css.map": "/Ready-Player-me-avatar-in-react/static/css/main.f855e6bc.css.map",
+    "main.7259d726.js.map": "/Ready-Player-me-avatar-in-react/static/js/main.7259d726.js.map",
+    "488.780df2e1.chunk.js.map": "/Ready-Player-me-avatar-in-react/static/js/488.780df2e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7259d726.js"
+  ]
+}
